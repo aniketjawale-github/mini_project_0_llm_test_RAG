@@ -1,0 +1,146 @@
+MINI PROJECT 0 — LLM WITHOUT RAG
+Run Time: 2025-12-16 23:09:45.251592
+============================================================
+
+TYPE     : PRIVATE
+QUESTION : What is Company XYZ's work from home policy?
+ANSWER   :
+I apologize, but as an AI, I don't have access to real-time, internal company policies for specific organizations like Company XYZ. Work-from-home policies can vary greatly and are often considered proprietary or internal HR information.
+
+To find out Company XYZ's work-from-home policy, I recommend the following:
+
+1.  **Check their official careers page:** Many companies will mention their WFH or hybrid approach in their "About Us," "Culture," or "Benefits" sections.
+2.  **Look for press releases or news articles:** Major policy shifts (like a move to fully remote or fully in-office) are sometimes announced publicly.
+3.  **Ask during the interview process:** If you are applying for a job at Company XYZ, this is the most direct and reliable way to get accurate information for the specific role you're interested in.
+4.  **Consult employee review sites (with caution):** Websites like Glassdoor or LinkedIn might have employees discussing their company's policies, but this information can be outdated, unofficial, or vary by department/location.
+5.  **If you are an employee:** Check your company's internal HR portal, company intranet, or speak directly with your manager or HR department.
+------------------------------------------------------------
+TYPE     : PRIVATE
+QUESTION : Who is the CEO of Company XYZ?
+ANSWER   :
+I cannot tell you who the CEO of "Company XYZ" is because "Company XYZ" is a placeholder name and not a real, specific company.
+
+If you can tell me the **actual name of the company**, I would be happy to try and find that information for you!
+------------------------------------------------------------
+TYPE     : AMBIGUOUS
+QUESTION : Is work from home allowed?
+ANSWER   :
+That's a very common question, and the answer is: **it depends entirely on the specific company, job role, and sometimes even the team or manager.**
+
+Here's a breakdown of factors:
+
+1.  **Company Policy:**
+    *   **Fully Remote:** Some companies operate entirely without a physical office, and all employees work from home (or anywhere else).
+    *   **Hybrid Model:** Many companies offer a blend, where employees work a few days in the office and a few days from home each week.
+    *   **Flexible/Optional:** Some companies allow work from home on an as-needed or optional basis, often with manager approval.
+    *   **Office-First/Mandatory In-Office:** Other companies require employees to be in the office full-time, especially for roles that require specific equipment, in-person collaboration, or client interaction.
+
+2.  **Job Role:**
+    *   **Remote-Friendly:** Roles like software development, writing, marketing, customer service (call centers), data analysis, and many consulting jobs are often well-suited for remote work.
+    *   **Less Remote-Friendly:** Jobs in manufacturing, healthcare (patient-facing), retail, hospitality, lab-based research, or roles requiring hands-on physical tasks are typically not conducive to work from home.
+
+3.  **Team/Manager Discretion:** Even within a company that generally allows WFH, a specific team or manager might have different preferences or requirements based on their projects or team dynamics.
+
+4.  **Country/Region:** While less common now, some regions or industries might have specific regulations or cultural norms regarding remote work.
+
+**How to find out if work from home is allowed for your situation:**
+
+*   **Check the Job Description:** If you're applying for a job, the description will usually state if it's remote, hybrid, or in-office.
+*   **Ask During the Interview Process:** It's a perfectly valid question to ask potential employers.
+*   **Consult Your Company's HR Policy/Employee Handbook:** If you're already employed, this is the official source.
+*   **Speak to Your Manager:** This is often the most direct way to get clarification for your specific role and team.
+
+In summary, while work from home has become much more common and accepted since the pandemic, it's definitely not a universal standard.
+------------------------------------------------------------
+TYPE     : AMBIGUOUS
+QUESTION : How many leaves do employees get?
+ANSWER   :
+The number of leaves employees get **varies significantly** based on several factors:
+
+1.  **Country/Region:** Labor laws regarding leave entitlements differ greatly around the world.
+2.  **Company Policy:** Companies often offer more generous leave packages than the legal minimums.
+3.  **Type of Leave:** There are many different categories of leave.
+4.  **Employee Seniority/Tenure:** More experienced or long-term employees often accrue more leave.
+5.  **Employment Status:** Full-time, part-time, contractor status can affect entitlements.
+6.  **Industry:** Some industries might have specific leave considerations.
+7.  **Collective Bargaining Agreements (Unions):** Union contracts can stipulate specific leave benefits.
+
+Here's a breakdown of common types of leave and typical ranges:
+
+**I. Statutory Leaves (often mandated by law, though specifics vary wildly):**
+
+1.  **Annual Leave / Vacation Leave:**
+    *   **Europe:** Most EU countries mandate a minimum of 4 weeks (20 working days) of paid annual leave, often more. Some countries include public holidays in this, others are separate.
+    *   **UK:** Employees are entitled to 5.6 weeks (28 days) of paid annual leave, including bank holidays.
+    *   **Australia:** Typically 4 weeks (20 days) of paid annual leave per year.
+    *   **Canada:** Minimum of 2 weeks (10 days) per year, increasing to 3-4 weeks after several years of service, depending on the province.
+    *   **USA:** No federal law mandates paid vacation. It's entirely up to the employer. Companies typically offer:
+        *   **Entry-level:** 10-15 days per year.
+        *   **Mid-level/Experienced:** 15-20 days per year.
+        *   **Senior/Long-tenure:** 20-25+ days per year.
+    *   **India:** Varies by state and industry, typically 15-20 days per year, plus casual and sick leave.
+
+2.  **Sick Leave:**
+    *   **Europe/UK/Australia/Canada:** Often a statutory entitlement, though the amount and pay vary. Some countries have long-term sick pay schemes.
+    *   **USA:** No federal law mandates paid sick leave. Some states (e.g., California, New York), and many cities, do. Companies typically offer:
+        *   **Paid Sick Leave:** 5-10 days per year is common.
+        *   **Unpaid Sick Leave:** Often permitted for longer illnesses under FMLA (Family and Medical Leave Act) for eligible employees, but it's unpaid.
+
+3.  **Parental Leave (Maternity, Paternity, Shared):**
+    *   **Europe:** Generally very generous, with many months of paid maternity leave (e.g., 6 months to 1 year+ at varying pay rates) and increasing paternity/shared parental leave provisions.
+    *   **UK:** Up to 52 weeks of maternity leave (39 weeks paid) and 2 weeks of paid paternity leave, plus shared parental leave options.
+    *   **USA:** FMLA provides up to 12 weeks of *unpaid*, job-protected leave for parental care (among other things) for eligible employees. Some states and companies offer paid parental leave, but it's not federal.
+    *   **Canada:** Up to 15 weeks of paid maternity benefits and up to 40 weeks of parental benefits (shared).
+    *   **India:** 26 weeks of paid maternity leave.
+
+**II. Other Common Leaves (often company policy, sometimes statutory):**
+
+1.  **Public Holidays / Bank Holidays:**
+    *   **USA:** Typically 7-10 paid public holidays per year (e.g., New Year's Day, Memorial Day, Independence Day, Labor Day, Thanksgiving, Christmas).
+    *   **Europe/UK/Australia/Canada:** Often 8-12 paid public holidays per year, separate from annual leave.
+2.  **Bereavement Leave (Funeral Leave):** Usually 3-5 days for immediate family members, often paid.
+3.  **Jury Duty / Civic Duty Leave:** Often paid for the duration of the duty.
+4.  **Personal Leave:** Some companies offer a few days for personal matters that don't fit into sick or vacation leave.
+5.  **Sabbatical Leave:** Often offered by companies to long-serving employees for extended periods (e.g., 3-6 months) for professional development or personal projects, sometimes paid, sometimes unpaid.
+6.  **Study Leave / Professional Development Leave:** For attending courses, conferences, etc.
+7.  **Military Leave:** For employees serving in the reserves or national guard.
+
+**How to find out for a specific employee:**
+
+To know the exact number of leaves an employee gets, you would need to check:
+
+*   **Their Employment Contract or Offer Letter**
+*   **The Company's HR Policy Manual or Employee Handbook**
+*   **Local Labor Laws**
+------------------------------------------------------------
+TYPE     : FOLLOW_UP
+QUESTION : On which exact days is work from home allowed?
+ANSWER   :
+I cannot give you exact days for work from home because **WFH policies are highly specific and vary significantly** based on several factors:
+
+1.  **Your Specific Employer/Company Policy:** This is the most crucial factor. Every company sets its own rules.
+2.  **Your Job Role/Department:** Some roles are more suitable for WFH than others.
+3.  **Your Manager's Discretion:** Even within company policy, a manager might have some leeway.
+4.  **Your Individual Employment Contract:** Your specific agreement might outline your WFH terms.
+5.  **Local Regulations/Laws:** While less common for *allowing* specific days, some regulations might *mandate* WFH during emergencies (like during the pandemic).
+
+**Common Scenarios for WFH Policies:**
+
+*   **Hybrid Model:** Many companies allow WFH for a certain number of days per week (e.g., 2-3 days WFH, 2-3 days in the office). For example, they might require Tuesdays, Wednesdays, and Thursdays in the office, allowing WFH on Mondays and Fridays.
+*   **Fully Remote:** Some companies are entirely remote, allowing WFH every day.
+*   **Primarily In-Office with Flexibility:** Some companies are primarily in-office but allow occasional WFH for specific tasks, emergencies, or pre-approved "flex days."
+*   **Manager Approval:** In some cases, WFH is allowed only with explicit manager approval for each instance.
+
+**To find out the exact days work from home is allowed for you, you need to:**
+
+1.  **Check your company's official WFH policy:** This is usually found on your HR portal, company intranet, or employee handbook.
+2.  **Talk to your direct manager:** They can provide the most accurate information specific to your team and role.
+3.  **Consult your HR department:** They can clarify any policy details.
+------------------------------------------------------------
+TYPE     : UNKNOWN
+QUESTION : What did I eat for lunch today?
+ANSWER   :
+I'm sorry, but I don't know what you ate for lunch today. As an AI, I don't have access to your personal information or your daily activities. Only you would know that!
+
+Perhaps you could think back to what you did around lunchtime? Did you cook something, go out, or order in?
+------------------------------------------------------------
